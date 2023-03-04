@@ -15,7 +15,7 @@
   scrollbar-color: var(--third-color) white;
 }
 
-/* Works on Chrome, Edge, and Safari */
+/* Works on Chrome, Edge, and Safariasdasds */
 *::-webkit-scrollbar{
   width: .5rem;
 }
