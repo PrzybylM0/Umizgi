@@ -1,0 +1,14 @@
+.footerElement{
+    font-weight: 500;
+    color: var(--secondary-color);
+    text-decoration: none;
+    padding: .125rem .3125rem .125rem .3125rem;
+}
+
+.footerElement:hover{
+    font-weight: 600;
+}
+
+.footerElement_active{
+    font-weight: 600;
+}

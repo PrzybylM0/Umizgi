@@ -1,0 +1,259 @@
+
+[
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg/1024px-Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra%2C_small.jpg",
+      "title": "American aviation pioneer and writer. Earhart was the first female aviator to fly solo across the Atlantic Ocean.",
+      "views": 1939,
+      "points": 15,
+      "channel": "Amelia Earhart",
+      "category": "Engineers",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Hitchcock%2C_Alfred_02.jpg/800px-Hitchcock%2C_Alfred_02.jpg",
+      "title": "English filmmaker. He is widely regarded as one of the most influential figures in the history of cinema.",
+      "views": 1980,
+      "points": 429,
+      "channel": "Alfred Hitchcock",
+      "category": "Filmers",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Gandhi_writing_1942.jpg",
+      "title": "Indian revolutionary, anti-colonial nationalist, and political ethicist.",
+      "views": 1948,
+      "points": 130,
+      "channel": "Mahatma Gandhi",
+      "category": "Priests",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Pablo_Picasso%2C_summer_1912.jpg",
+      "title": "Spanish painter, sculptor, printmaker, ceramicist and theatre designer who spent most of his adult life in France.",
+      "views": 1973,
+      "points": 48,
+      "channel": "Pablo Picasso",
+      "category": "Artists",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://cdn.britannica.com/47/79847-050-A78604A0/Thomas-Alva-Edison.jpg",
+      "title": "American inventor and businessman. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures.",
+      "views": 1931,
+      "points": 1018,
+      "channel": "Thomas Edison",
+      "category": "Entrepreneurs",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/439px-Bill_Gates_2017_%28cropped%29.jpg",
+      "title": "American business magnate, author, investor, and philanthropist.",
+      "views": 1955,
+      "points": 1028,
+      "channel": "Bill Gates",
+      "category": "Entrepreneurs",
+      "livestatus": true,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tom_Hardy_by_Gage_Skidmore.jpg/800px-Tom_Hardy_by_Gage_Skidmore.jpg",
+      "title": "English actor. After studying acting at the Drama Centre London, he made his film debut in Ridley Scott's Black Hawk Down",
+      "views": 1975,
+      "points": 815,
+      "channel": "Tom Hardy",
+      "category": "Actors",
+      "livestatus": true,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mike_Tyson_2019_by_Glenn_Francis.jpg/220px-Mike_Tyson_2019_by_Glenn_Francis.jpg",
+      "title": "American former professional boxer who competed from 1985 to 2005. Nicknamed Iron Mike",
+      "views": 1966,
+      "points": 1025,
+      "channel": "Mike Tyson",
+      "category": "Athletes",
+      "livestatus": true,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Andrzej_Golota_2014.jpg/800px-Andrzej_Golota_2014.jpg",
+      "title": "Polish former professional boxer who competed from 1992 to 2013.",
+      "views": 1968,
+      "points": 15,
+      "channel": "Andrew Golota",
+      "category": "Athletes",
+      "livestatus": true,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://langas.pl/wp-content/uploads/2021/12/Dr_Jacek_Bartosiak_zalozyciel_i_wlasciciel_StrategyFuture.jpg",
+      "title": "Polski prawnik, publicysta zajmujący się geopolityką i strategią, założyciel think tanku Strategy&Future.",
+      "views": 1976,
+      "points": 1210,
+      "channel": "Jacek Bartosiak",
+      "category": "Authors",
+      "livestatus": true,
+      "date": "2021-04-25T21:30:05+03:00"
+    },
+    {
+      "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcSPwqlgRgc73Sc2CXQ5X2zD0NAvyQ4qJiJQCYL44_k9KdljjypQdmSivPqMgFJgsyHeeDdw-qyr2a2l1kg",
+      "title": "British theoretical physicist, cosmologist, and author, who made groundbreaking contributions to our understanding of black holes and the origins of the universe.",
+      "views": 2002,
+      "points": 183,
+      "channel": "Stephen Hawking",
+      "category": "Scientists",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+      },
+      
+      {
+      "image": "https://www.williamshakespeare.net/images/shakespeare.jpg",
+      "title": "English playwright, poet, and actor, widely regarded as the greatest writer in the English language and one of the greatest playwrights in history.",
+      "views": 1606,
+      "points": 549,
+      "channel": "William Shakespeare",
+      "category": "Authors",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+      },
+      
+      {
+      "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcSJKyrj1M_E4zNvs1V3mfNkv13MajxmmotwGgNlb639NJVMdPgVDHv29wgH_SnTO_Ep_SPNM6vm_yslNWc",
+      "title": "German-born theoretical physicist who developed the theory of relativity, one of the two pillars of modern physics.",
+      "views": 1945,
+      "points": 364,
+      "channel": "Albert Einstein",
+      "category": "Scientists",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+      },
+      
+      {
+      "image": "https://www.michelangelo.org/images/michelangelo.jpg",
+      "title": "Italian Renaissance sculptor, painter, and architect, known for works such as the statue of David and the Sistine Chapel ceiling.",
+      "views": 1564,
+      "points": 72,
+      "channel": "Michelangelo",
+      "category": "Artists",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+      },
+      
+      {
+      "image": "https://www.history.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTk1MDc4MzUzMzAzMTE5MDQ3/gettyimages-1141653869-2.jpg",
+      "title": "American astronaut and aeronautical engineer who was the first person to walk on the Moon.",
+      "views": 1969,
+      "points": 612,
+      "channel": "Neil Armstrong",
+      "category": "Engineers",
+      "livestatus": false,
+      "date": "2021-04-25T21:30:05+03:00"
+      },
+      
+      {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/800px-Sir_Winston_Churchill_-_19086236948.jpg",
+      "title": "British statesman, writer, and wartime leader who led the UK to victory in the Second World War.",
+      "views": 1965,
+      "points": 267,
+      "channel": "Winston Churchill",
+      "category": "Politicians",
+      "livestatus": false,
+      "date": "2021-02-25T21:30:05+03:00"
+      },
+      {
+        "image": "https://cdn.britannica.com/51/188751-050-D4E1CFBC/Beyonce-2010.jpg",
+        "title": "American singer, songwriter, and actress.",
+        "views": 2500,
+        "points": 1732,
+        "channel": "Beyoncé",
+        "category": "Musicians",
+        "livestatus": true,
+        "date": "2021-04-25T21:30:05+03:00"
+        },
+        {
+        "image": "https://hips.hearstapps.com/hmg-prod/images/ed-sheeran-GettyImages-494227430_1600.jpg?resize=1200:*",
+        "title": "English singer, songwriter, musician, and record producer.",
+        "views": 1800,
+        "points": 1290,
+        "channel": "Ed Sheeran",
+        "category": "Musicians",
+        "livestatus": true,
+        "date": "2021-04-25T21:30:05+03:00"
+        },
+        {
+        "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSiT-O-0kuBftkYZ4aGnRhhcVUI1tJerEZQ3ECCuzWIGgOKWBGZrQypr43m9uCo5AmbsdxznbmPwhswP70",
+        "title": "American rapper, songwriter, and record producer.",
+        "views": 2100,
+        "points": 1520,
+        "channel": "Kendrick Lamar",
+        "category": "Musicians",
+        "livestatus": true,
+        "date": "2021-04-25T21:30:05+03:00"
+        },
+        {
+        "image": "https://fwcdn.pl/ppo/43/80/884380/452002.3.jpg",
+        "title": "American singer-songwriter.",
+        "views": 2400,
+        "points": 1865,
+        "channel": "Taylor Swift",
+        "category": "Musicians",
+        "livestatus": true,
+        "date": "2021-04-25T21:30:05+03:00"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjAwNTkxN15BMl5BanBnXkFtZTcwNDczMTM5OA@@._V1_.jpg",
+          "title": "Doris Kearns Goodwin, American historian, biographer and political commentator.",
+          "views": 650,
+          "points": 720,
+          "channel": "Doris Kearns Goodwin",
+          "category": "Historians",
+          "livestatus": true,
+          "date": "2021-04-25T21:30:05+03:00"
+          },
+          {
+          "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpwShYEVuNFePNDB7LWbpF5_CtueXIRSKmLwbsjYxfY1dZ7ml2",
+          "title": "David M. Oshinsky, American historian and professor at New York University.",
+          "views": 550,
+          "points": 510,
+          "channel": "David M. Oshinsky",
+          "category": "Historians",
+          "livestatus": true,
+          "date": "2021-04-25T21:30:05+03:00"
+          },
+          {
+          "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSSMPcJZLC9NfkpNWrEYX_CYGvycWFfTjlvY9EXCh9-2nrA3EG1_epuc6LTT4JoXSZOQKF14ucDrkYc_lQ",
+          "title": "Jon Meacham, American writer, historian, and Pulitzer Prize winner.",
+          "views": 750,
+          "points": 960,
+          "channel": "Jon Meacham",
+          "category": "Historians",
+          "livestatus": true,
+          "date": "2021-04-25T21:30:05+03:00"
+          },
+          {
+          "image": "https://t1.gstatic.com/licensed-image?q=tbn:ANd9GcSisK9VpB5Jb41RLlW2oI7ESxqmGKvogXw-7mpKkq_kaVWqCLA7SQzjk9Z44wtahI9z38eEDKrfrlzM-0Q",
+          "title": "Niall Ferguson, British historian and professor at Stanford University.",
+          "views": 800,
+          "points": 650,
+          "channel": "Niall Ferguson",
+          "category": "Historians",
+          "livestatus": true,
+          "date": "2021-04-25T21:30:05+03:00"
+          },
+          {
+          "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcQI9LGjQiP6ZOJFX4JBLelSjsv-OcqlDarL3znv_udevJQDZHmU67Kmsx2CP0ej83G0aWy3YtAvgdj9FYw",
+          "title": "Simon Schama, British historian and professor at Columbia University.",
+          "views": 700,
+          "points": 820,
+          "channel": "Simon Schama",
+          "category": "Historians",
+          "livestatus": true,
+          "date": "2001-04-25T21:30:05+03:00"
+          }
+
+  ]

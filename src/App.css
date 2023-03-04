@@ -1,0 +1,33 @@
+:root {
+  --primary-color: #B43A3A;
+  --secondary-color: #404040;
+  --third-color: #C4C4C4;
+  --fourth-color: #E4E4E4;
+}
+
+.app__content{
+  display: block;
+}
+
+/* Works on Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--third-color) white;
+}
+
+/* Works on Chrome, Edge, and Safari */
+*::-webkit-scrollbar{
+  width: .5rem;
+}
+
+*::-webkit-scrollbar-track {
+  background: white;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--third-color);
+  border-radius: 1rem;
+  border: 0.125rem solid white;
+}
+
+

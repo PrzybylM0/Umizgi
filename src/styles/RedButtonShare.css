@@ -1,0 +1,147 @@
+/* Styl dla overlay (tło modala) */
+.ReactModal__Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    z-index: 100;
+
+  }
+  
+  /* Styl dla content (zawartość modala) */
+  .ReactModal__Content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: white;
+    padding: 2rem;
+    border-radius: .5rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.5);
+    max-width: 32rem;
+    width: 100%;
+    max-height: 80%;
+    overflow-y: auto;
+    color: var(--secondary-color);
+  }
+  
+  /* Styl dla tytułu modala */
+  .Modal__Title {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    margin-top: 0;
+  }
+  
+  /* Styl dla treści modala */
+  .Modal__Content {
+    font-size: .9rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    margin-top: 2rem;
+    font-weight: 700;
+  }
+  
+  /* Styl dla przycisku zamknięcia modala */
+  .Modal__CloseButton {
+    position: absolute;
+    top: 1.5rem;
+    right: 1.5rem;
+    border: none;
+    color: var(--secondary-color);
+    background-color: transparent;
+    cursor: pointer;
+    padding: .1rem;
+  }
+
+  .social-media {
+    display: flex;
+  }
+
+  .social-media1 {
+    display: flex;
+  }
+
+  .social-media-square{
+    position: relative;
+    z-index: 1;
+    font-size: 2rem;
+    margin-right: 2rem;
+    cursor: pointer;
+    align-items: center;
+  }
+
+  .social-media-text{
+    text-align: center;
+    font-size: .8rem;
+    font-weight: 600;
+    margin-top: .3rem;
+  }
+
+
+
+  .social-media-square::before {
+    content: "";
+    border-radius: .5rem;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 4rem;
+    height: 4rem;
+    z-index: -1;
+  }
+
+  .social-media .social-media-square:nth-child(1)::before {
+    background-color: rgba(66, 103, 178, 0.15);
+  }
+  .social-media .social-media-square:nth-child(2)::before {
+    background-color: rgba(253, 29, 29, 0.15);
+  }
+  .social-media .social-media-square:nth-child(3)::before {
+    background-color: rgba(0, 0, 0, 0.15);
+  }
+  .social-media .social-media-square:nth-child(4)::before {
+    background-color: rgba(29, 161, 242, 0.15);
+  }
+
+  .social-media1 .social-media-square:nth-child(1)::before {
+    background-color: rgba(0, 178, 255, 0.15);
+  }
+  .social-media1 .social-media-square:nth-child(2)::before {
+    background-color: rgba(37, 211, 102, 0.15);
+  }
+  .social-media1 .social-media-square:nth-child(3)::before {
+    background-color: rgba(102, 102, 255, 0.15);
+  }
+  .social-media1 .social-media-square:nth-child(4)::before {
+    background-color: rgba(255, 86, 0, 0.15);
+  }
+   
+  .link-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .link-container a {
+    color: var(--secondary-color);
+    text-decoration: none;
+    margin-right: 2rem;
+    background-color: #ebebeb;
+    padding: .8rem;
+    width: 100%;
+    border-radius: .5rem;
+  }
+  
+  .link-container button {
+    background-color: var(--primary-color);
+    border-radius: .5rem;
+    border: none;
+    color: #666;
+    cursor: pointer;
+    padding: .8rem;
+    color: white;
+    font-size: .9rem;
+    font-weight: 700;
+  }

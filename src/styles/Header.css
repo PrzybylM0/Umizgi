@@ -1,0 +1,109 @@
+.header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    height: 1.5rem;
+    background-color: white;
+    margin-left: .6rem;
+    margin-right: .6rem;
+    border-bottom: .0625rem solid var(--fourth-color);
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    font-size: 0.9rem;
+}
+
+.header__logo {
+    height: 1.7rem;
+    object-fit: contain;
+    cursor: pointer;
+}
+
+.header__input {
+    display: flex;
+    align-items: center;
+    border: .0625rem var(--third-color) solid;
+    width: 35%;
+    height: 2rem;
+    max-width: 37.5rem;
+    margin-left: .6rem;
+    margin-right: .6rem;
+    cursor: not-allowed;
+}
+
+.header__input > input {
+    height: 2rem;
+    width: 100%;
+    font-weight: 400;
+    color: var(--third-color);
+    border: none; 
+    padding: 0 .6rem 0 .6rem;
+    border-right: .0625rem var(--third-color) solid;
+    cursor: not-allowed;
+}
+
+.header__input > input:focus {
+    outline: none;
+}
+
+#header__inputButton{
+    color: var(--third-color);
+    padding: .25rem 1rem .25rem 1rem;
+    cursor: not-allowed;
+}
+
+.header__icons{
+    align-items: center;
+    display: flex;
+}
+
+.amount_of_points {
+    color: var(--primary-color);
+    cursor: pointer;
+    display: flex;
+    font-weight: 600;
+}
+
+.amount_of_points > div{
+    margin-left: 2px;
+}
+
+.header__icons > .material-symbols-outlined{
+    margin-right: 1.5rem;
+    font-size: 1.4rem !important;
+    color: var(--secondary-color);
+    cursor: pointer;
+    padding: 4px;
+}
+
+.header__icons > .material-symbols-outlined:nth-child(2){
+    color: var(--primary-color);
+}
+
+#header__icon_disable{
+    color: var(--third-color) !important;
+    cursor: not-allowed;
+}
+
+.header__avatar{
+    height: 2rem !important;
+    width: 2rem !important;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 640px) {
+    .amount_of_points > div{
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .header__icons > .material-symbols-outlined{
+        margin-right: 1rem;
+    }
+
+    #header__inputButton{
+        padding: .25rem .375rem .25rem .375rem;
+    }
+}

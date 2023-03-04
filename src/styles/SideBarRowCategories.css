@@ -1,0 +1,23 @@
+.sidebar_show_button{
+    display: flex;
+    align-items: center;
+    color: var(--secondary-color);
+    cursor: pointer;
+    border: none;
+    padding: 0;
+    background-color: white;
+}
+
+.sidebar_show_button > span{
+    padding: .6875rem 1.25rem .6875rem 1.25rem;
+}
+
+.sidebar_show_button > .show_more_or_less{
+    font-weight: 400;
+    font-size: 0.8rem;
+}
+
+.material-symbols-outlined{
+    font-size: 1.3rem;
+}
+

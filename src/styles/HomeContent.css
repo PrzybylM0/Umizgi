@@ -1,0 +1,28 @@
+.content{    
+    margin-left: 13.4rem;    
+}
+
+.content > h1{
+    padding-left: 2.5rem;
+    padding-top: 2.5rem;
+    color: var(--secondary-color);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.streamCards{
+    padding: .3125rem 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+@media only screen and (max-width: 540px) {
+    .content > h1{
+        padding-left: 1.5rem;
+    }
+
+    .streamCards{
+        padding-left: 0;
+    }
+}

@@ -1,0 +1,76 @@
+.content{    
+    margin-left: 15rem;   
+
+}
+
+.content > h1{
+    padding-left: 1rem;
+    padding-top: 2.5rem;
+    color: var(--secondary-color);
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.streamCards{
+    /* padding: .3125rem 1rem;
+    display: flex;
+    flex-wrap: wrap; 
+    margin: auto;*/ 
+    background-color: rgb(134, 35, 35);
+    /* display: grid; */
+    display:grid;
+    /* grid-template-columns: repeat(3, minmax(0, 1fr)); */
+    grid-template-columns: repeat(auto-fit, minmax(15.625rem, 1fr));
+    grid-gap:1rem;
+}
+
+.noStreamsBlock{
+    display: flex;
+    text-align: center;
+    margin: auto;
+    margin-top: 10rem;
+}
+
+.noStreams{
+    font-size: 1.2rem;
+    color: var(--primary-color);
+    max-width: 33rem;
+}
+
+@media only screen and (max-width: 540px) {
+    .content > h1{
+        padding-left: 0;
+    }
+
+    .streamCards{
+        padding-left: 0;
+    }
+
+    .noStreamsBlock{
+        margin-left: 1.5rem;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .content{    
+        margin-left: 5.5rem;    
+    }
+}
+
+/* @media only screen and (max-width: 75rem) {
+    .streamCards{
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+}
+
+@media only screen and (max-width: 60rem) {
+    .streamCards{
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media only screen and (max-width: 45rem) {
+    .streamCards{
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+} */

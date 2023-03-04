@@ -1,0 +1,90 @@
+.sidebarRow{
+    display: flex;
+    align-items: center;
+    color: var(--secondary-color);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.sidebarRow:hover > .listName{
+    font-weight: 500;
+}
+
+.sidebarRow:hover > span{
+    padding: .6875rem 1.25rem .6875rem 1.25rem;
+}
+
+.sidebarRow:hover{
+    color: var(--primary-color);
+    background-color: #F8F8F8;
+}
+
+.sidebarRow_enable{
+    background-color: #F8F8F8;
+}
+
+.sidebarRow_enable > .listName{
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+.sidebarRow_enable .numberOfTalks{
+    font-weight: 500;
+    color: var(--primary-color) !important;
+}
+
+.numberOfTalks{
+    font-size: .8rem;
+}
+
+.sidebarRow_enable > .material-symbols-outlined{
+    color: var(--primary-color);
+}
+
+.material-symbols-outlined{
+    font-size: 1.3rem;
+}
+
+.sidebarRow_disable{
+    display: flex;
+    align-items: center;
+    color: var(--third-color);
+    cursor: not-allowed;
+}
+
+.sidebarRow > span{
+    padding: .6875rem 1.25rem .6875rem 1.25rem;
+}
+
+.sidebarRow_disable > span{
+    padding: .6875rem 1.25rem .6875rem 1.25rem;
+}
+
+.listName{
+    font-size: 0.8rem;
+}
+
+.sidebarRow_disable > div{
+    flex: 1;  
+}
+
+.sidebarRow_disable > div > div{
+    flex: 1;  
+    padding: .625rem .625rem .625rem .125rem;
+    position: relative;
+    float: right;
+}
+
+.sidebarRow > div{
+    flex: 1;  
+}
+
+.sidebarRow > div > div{
+    flex: 1;  
+    padding: .625rem .625rem .625rem .125rem;
+    position: relative;
+    float: right;
+}
+
+
+
